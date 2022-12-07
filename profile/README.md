@@ -1,4 +1,10 @@
 # 날씨 옷장 ☀️
+## 팀원 소개 및 역할 💡
+
+|                                        [@yubinquitous](https://github.com/yubinquitous)                                         |                                               [@B-efore](https://github.com/B-efore)                                             |                                        [@Jimin0304](https://github.com/Jimin0304)                                         |                                        [@siyeonSon](https://github.com/siyeonSon)                                         |
+| :------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: |
+| <img src="https://user-images.githubusercontent.com/65652094/205871824-afdae27d-e06e-45c8-a144-2ba79af43d72.png" width="300" /> | <img src="https://user-images.githubusercontent.com/65652094/205871896-c430c066-35e0-4d52-8b89-ec4de765c4a5.png" width="300"/> | <img src="https://user-images.githubusercontent.com/74671573/206147703-b898f0dd-a87a-4bd4-99d8-4234b477990f.png" width="300"/> | <img src="https://avatars.githubusercontent.com/u/87802191?v=4" width="300"/> 
+|             Android              |          Android         |          Server         |          Server             
 
 ## ❤️‍🔥 날씨 옷장 사용법 ❤️‍🔥
 
