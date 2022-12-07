@@ -1,4 +1,6 @@
 # 날씨 옷장 ☀️
+온도에 따른 나의 옷차림 기록 및 리마인드 안드로이드 어플리케이션
+
 ## 팀원 소개 및 역할 💡
 
 |                                        [@yubinquitous](https://github.com/yubinquitous)                                         |                                               [@B-efore](https://github.com/B-efore)                                             |                                        [@Jimin0304](https://github.com/Jimin0304)                                         |                                        [@siyeonSon](https://github.com/siyeonSon)                                         |
