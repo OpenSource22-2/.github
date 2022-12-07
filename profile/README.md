@@ -91,13 +91,16 @@
 <img src="https://user-images.githubusercontent.com/74671573/206144946-68496a02-89b0-4add-994d-105e02b83406.png" width="80%"\>
 </p></br>
 
-<!--
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+## 🚗 Tech Stacks 🚗
+<table>
+   <tr><th rowspan="2">📱Android</th><td>Language</td><td>Kotlin</td></tr>
+	<tr><td>~~~</td><td>~~~</td></tr>
+	<tr><th rowspan="5">🗄️Back-end</th><td>Language</td><td>Java 11</td></tr>
+	<tr><td>Framework</td><td>Spring Boot 2.7.3</td></tr>
+	<tr><td>ORM</td><td>Spring Data JPA</td></tr>
+	<tr><td>API Documentation</td><td>Swagger</td></tr>
+	<tr><td>Database</td><td>MySQL, AWS RDS</td></tr>
+</table>
