@@ -101,9 +101,10 @@
 	<tr><td>Third Party Library</td><td>Glide, Firebase</td></tr>
 	<tr><td>Strategy</td><td>Git Flow</td></tr>
 	<tr><td>Other Tool</td><td>Notion, Figma</td></tr>
-	<tr><th rowspan="5">🗄️Back-end</th><td>Language</td><td>Java 11</td></tr>
+	<tr><th rowspan="6">🗄️Back-end</th><td>Language</td><td>Java 11</td></tr>
 	<tr><td>Framework</td><td>Spring Boot 2.7.3</td></tr>
 	<tr><td>ORM</td><td>Spring Data JPA</td></tr>
 	<tr><td>API Documentation</td><td>Swagger</td></tr>
 	<tr><td>Database</td><td>MySQL, AWS RDS</td></tr>
+	<tr><td>Deploy</td><td>Github Actions, AWS EC2</td></tr>
 </table>
