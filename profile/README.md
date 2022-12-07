@@ -96,8 +96,11 @@
 
 ## 🚗 Tech Stacks 🚗
 <table>
-   <tr><th rowspan="2">📱Android</th><td>Language</td><td>Kotlin</td></tr>
-	<tr><td>~~~</td><td>~~~</td></tr>
+   <tr><th rowspan="5">📱Android</th><td>Language</td><td>Kotlin</td></tr>
+	<tr><td>Network</td><td>Retrofit, OkHttp</td></tr>
+	<tr><td>Third Party Library</td><td>Glide, Firebase</td></tr>
+	<tr><td>Strategy</td><td>Git Flow</td></tr>
+	<tr><td>Other Tool</td><td>Notion, Figma</td></tr>
 	<tr><th rowspan="5">🗄️Back-end</th><td>Language</td><td>Java 11</td></tr>
 	<tr><td>Framework</td><td>Spring Boot 2.7.3</td></tr>
 	<tr><td>ORM</td><td>Spring Data JPA</td></tr>
