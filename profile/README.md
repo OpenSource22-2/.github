@@ -99,18 +99,19 @@
 
 
 
-
 ## 🚗 Tech Stacks 🚗
 <table>
-   <tr><th rowspan="5">📱Android</th><td>Language</td><td>Kotlin</td></tr>
+   <tr><th rowspan="3">📱Android</th><td>Language</td><td>Kotlin</td></tr>
 	<tr><td>Network</td><td>Retrofit, OkHttp</td></tr>
 	<tr><td>Third Party Library</td><td>Glide, Firebase</td></tr>
-	<tr><td>Strategy</td><td>Git Flow</td></tr>
-	<tr><td>Other Tool</td><td>Notion, Figma</td></tr>
 	<tr><th rowspan="6">🗄️Back-end</th><td>Language</td><td>Java 11</td></tr>
 	<tr><td>Framework</td><td>Spring Boot 2.7.3</td></tr>
 	<tr><td>ORM</td><td>Spring Data JPA</td></tr>
 	<tr><td>API Documentation</td><td>Swagger</td></tr>
 	<tr><td>Database</td><td>MySQL, AWS RDS</td></tr>
 	<tr><td>Deploy</td><td>Github Actions, AWS EC2</td></tr>
+	<tr><th rowspan="3">🤝Collaboration</th><td>API Test</td><td>Postman</td></tr>
+	<tr><td>Communication</td><td>Notion, Figma</td></tr>
+	<tr><td>Version Control</td><td>Git, Github</td></tr>
 </table>
+
