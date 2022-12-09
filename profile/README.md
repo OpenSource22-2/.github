@@ -92,13 +92,6 @@
 <img src="https://user-images.githubusercontent.com/74671573/206144241-5757f656-09e6-4628-b004-9eab68ffebec.png" width="80%"\>
 </p></br>
 
-<p>
-<img src="https://user-images.githubusercontent.com/74671573/206144888-fd94a5cb-2881-454b-9176-4a9b35576e35.png" width="80%"\>
-</p></br>
-<p>
-<img src="https://user-images.githubusercontent.com/74671573/206144946-68496a02-89b0-4add-994d-105e02b83406.png" width="80%"\>
-</p></br>
-
 
 ## 🚗 기술 스택 🚗
 <table>
